@@ -1,0 +1,16 @@
+body{
+  background: #000;
+
+
+}
+
+
+input{
+  /* margin-right:  5px; */
+}
+
+
+label{
+  display: flex;
+  gap: 5px;
+}
